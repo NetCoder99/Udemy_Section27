@@ -1,0 +1,12 @@
+.item {
+    margin: 1rem auto;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: .3rem;
+    background-color:  whitesmoke;
+    width: 40rem;
+    font-weight: bold;
+  }
+
+.item span {
+  margin-right: .5rem;
+}  

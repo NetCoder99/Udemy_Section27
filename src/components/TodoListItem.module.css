@@ -1,0 +1,25 @@
+.item {
+    margin: .5rem 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: .3rem;
+    background-color: #f7f5ef;
+  }
+
+.item span {
+  margin-right: .5rem;
+}  
+
+.item .trash {
+  padding: .3rem;
+  background-color: #f7f5ef;
+  border-radius: 5px;
+}  
+
+.item .id {
+  display: inline-block;
+  width: 1.5rem;
+}  
+.item .text {
+  display: inline-block;
+  width: 8rem;
+}  
